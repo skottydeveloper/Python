@@ -1,4 +1,4 @@
-# This is a mere "hello world" mini-project to revise printing in Python. To view exercises and mini-projects of more complexity and purpose, please view the later mini-projects. */
+# This is a mere "hello world" exercise to revise multi-line printing in Python. To view exercises and mini-projects of more complexity and purpose, please view the more recent pieces of code submitted. */
 
 initials = """
 
